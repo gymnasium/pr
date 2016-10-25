@@ -5,9 +5,9 @@ permalink:           /:categories/index.html
 relative_permalinks: false
 
 # Setup
-#title:               Aquent Gymnasium Press Releases
-#url:                 http://thegymnasium.com
-baseurl:             'pr'
+title:               Aquent Gymnasium Press Releases
+url: "http://gymnasium.github.io/pr"
+baseurl: "/pr"
 
 # Custom vars
 
