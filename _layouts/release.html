@@ -1,0 +1,23 @@
+{% include head.html %}
+
+      <article>
+          <h1>FOR IMMEDIATE RELEASE</h1>
+          <address>
+      	<dl>
+      		<dt><b>CONTACT:</b></dt>
+      		<dd>Catherine Weber, Marketing Lead, Aquent Gymnasium</dd>
+      		<dd>caweber@aquent.com | 508-523-3605</dd>
+      	</dl>
+      </address>
+
+      <header style="text-align: center;">
+          <strong>{{ page.pretitle }}</strong>
+          <h2>{{ page.maintitle }}</h2>
+          <h3>{{ page.subtitle }}</h3>
+      </header>
+
+
+{{ content }}
+
+{% include about.html %}
+{% include footer.html %}

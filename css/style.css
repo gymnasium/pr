@@ -1,0 +1,62 @@
+html {
+  font: 100%/normal sans-serif;
+}
+
+body {
+  font-family: monospace, monospace;
+  font-size: 1em;
+  color: #222;
+  max-width: 60em;
+  padding: 5%;
+  margin: 0 auto;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+}
+
+p {
+  line-height: 1.5;
+  word-spacing: -.001em;
+}
+
+h1, h2, h3, h4 {
+  word-spacing: -0.1em;
+}
+
+address {
+  font-style: normal;
+  margin-top: 2em;
+  margin-bottom: 4em;
+}
+
+address dd {
+  margin-top: .5em;
+}
+
+header {
+  margin-top: 1em;
+  margin-bottom: 2em;
+}
+
+.brand {
+  text-align: center;
+  font-family: "Helvetica", sans-serif;
+  color: #888;
+  margin-bottom: 4em;
+  /* prevents a failed copy & paste (into other docs) */
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+.brand img {
+  display: inline-block;
+  height: 2em;
+}
+
+.brand p {
+  word-spacing: -.001em;
+}

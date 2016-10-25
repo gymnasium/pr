@@ -1,0 +1,23 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           /:categories/index.html
+relative_permalinks: false
+
+# Setup
+title:               Aquent Gymnasium Press Releases
+url:                 http://thegymnasium.com
+baseurl:             ''
+
+# Custom vars
+
+version:             1.0.0
+
+# Build settings
+markdown: kramdown
+#theme: minima
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
