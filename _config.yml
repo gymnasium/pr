@@ -1,13 +1,13 @@
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           /:site/:categories/index.html
+permalink:           /pr/:categories/index.html
 relative_permalinks: false
 
 # Setup
 #title:               Aquent Gymnasium Press Releases
 #url:                 http://thegymnasium.com
-#baseurl:             'pr'
+baseurl:             'pr'
 
 # Custom vars
 
