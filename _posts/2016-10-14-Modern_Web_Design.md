@@ -2,7 +2,7 @@
 layout: release
 permalink: modern_web_design
 pretitle: Aquent Gymnasium Launches
-maintitle: Modern Web Design
+title: Modern Web Design
 subtitle: Full-Length Course by Instructor Aaron Gustafson
 date:   2016-10-14
 ---
