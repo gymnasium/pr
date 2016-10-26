@@ -5,9 +5,6 @@ permalink:
 baseurl: /pr/
 ---
 
-
-
-
 {% for post in site.posts %}
 <dl>
     <dt>{{ post.date | date: "%B %e, %Y" }}</dt>
