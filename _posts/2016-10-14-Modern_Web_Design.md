@@ -1,6 +1,6 @@
 ---
 layout: release
-categories: Modern_Web_Design
+permalink: modern_web_design
 pretitle: Aquent Gymnasium Launches
 maintitle: Modern Web Design
 subtitle: Full-Length Course by Instructor Aaron Gustafson

@@ -1,6 +1,7 @@
 ---
 layout: release
-categories: Web_Design_is_Hard
+permalink: web_design_is_hard
+baseurl: /pr
 pretitle: Aquent Gymnasium Presents
 maintitle: Web Design is Hard&colon; The State of Learning To Design and Code
 subtitle: Webinar Features Web Legends Jeffrey Zeldman & Aaron Gustafson

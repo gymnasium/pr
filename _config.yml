@@ -1,23 +1,51 @@
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           /pr/:categories/index.html
-relative_permalinks: true
+permalink:
 
 # Setup
 title:               Aquent Gymnasium Press Releases
 url: "http://gymnasium.github.io/pr"
-baseurl: "/pr"
+baseurl: /press_releases
 
 # Custom vars
 
-version:             1.0.0
+# version:             1.0.0
 
-# Build settings
-markdown: kramdown
-#theme: minima
-gems:
-  - jekyll-feed
-exclude:
-  - Gemfile
-  - Gemfile.lock
+# Conversion
+markdown:    kramdown
+highlighter: rouge
+lsi:         false
+excerpt_separator: "\n\n"
+incremental: false
+
+# Serving
+# detach:  false
+# port:    4000
+# host:    127.0.0.1
+# baseurl: / # does not include hostname
+# show_dir_listing: false
+
+# Outputting
+#permalink:     none
+#paginate_path: /page:num
+#timezone:      null
+
+# quiet:    false
+# verbose:  false
+# defaults: []
+#
+# liquid:
+#   error_mode: warn
+#
+# # Markdown Processors
+#
+# kramdown:
+#   auto_ids:       true
+#   footnote_nr:    1
+#   entity_output:  as_char
+#   toc_levels:     1..6
+#   smart_quotes:   lsquo,rsquo,ldquo,rdquo
+#   input:          GFM
+#   hard_wrap:      false
+#   footnote_nr:    1
