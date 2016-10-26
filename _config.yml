@@ -6,7 +6,7 @@ permalink:
 # Setup
 title:               Aquent Gymnasium Press Releases
 url: "http://gymnasium.github.io/pr"
-baseurl: /press_releases
+baseurl: /pr
 
 # Custom vars
 
