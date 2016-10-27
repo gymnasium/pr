@@ -7,7 +7,7 @@ subtitle: Full-Length Course by Instructor Aaron Gustafson
 date:   2016-10-14
 ---
 
-Boston, October 14, 2016 — Aquent Gquent Gymnasium is pleased to announce the launch of [Modern Web Design](http://bit.ly/GYM_MWD), a full-length course taught by Web Standards expert Aaron Gustafson. The course is free and available online 24/7.
+Boston, October 14, 2016 — Aquent Gymnasium is pleased to announce the launch of [Modern Web Design](http://bit.ly/GYM_MWD), a full-length course taught by Web Standards expert Aaron Gustafson. The course is free and available online 24/7.
 
 Modern Web Design is perfect for designers, aspiring front-end developers, and other creatives who want to expand their skills and take their career to a new level. In six hours of instruction, students will learn how to mark up content with semantic HTML, use CSS as a design tool, and add interactivity to web pages with JavaScript.
 
