@@ -7,7 +7,7 @@ permalink:
 title:               Aquent Gymnasium Press Releases
 url: "http://gymnasium.github.io/pr"
 baseurl: /pr
-
+future: false
 # Custom vars
 
 # version:             1.0.0
