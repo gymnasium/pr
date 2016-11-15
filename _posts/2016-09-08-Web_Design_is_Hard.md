@@ -6,7 +6,7 @@ title: Web Design is Hard&colon; The State of Learning To Design and Code
 subtitle: Webinar Features Web Legends Jeffrey Zeldman & Aaron Gustafson
 date:   2016-09-08
 ---
-Boston, September 8, 2016 — Aquent Gymnasium is pleased to present a free live webinar “[Web Design is Hard: The State of Learning To Design and Code](https://attendee.gotowebinar.com/register/5580479284781562884?source=Press+Release)” on **Wednesday, September 21st at 2 PM EDT** with web design legends, Jeffrey Zeldman and Aaron Gustafson, and hosted by Gymnasium Academic Director Jeremy Osborn. Registration is open and free.
+**Boston, September 8, 2016** — Aquent Gymnasium is pleased to present a free live webinar “[Web Design is Hard: The State of Learning To Design and Code](https://attendee.gotowebinar.com/register/5580479284781562884?source=Press+Release)” on **Wednesday, September 21st at 2 PM EDT** with web design legends, Jeffrey Zeldman and Aaron Gustafson, and hosted by Gymnasium Academic Director Jeremy Osborn. Registration is open and free.
 
 Learning web design has never been more complex. With rapidly changing requirements, advancing technologies and tools, and a plethora of education options, prospective web designers will find the choices daunting. Join us for a lively discussion on how to navigate the complex world of web design education.
 
