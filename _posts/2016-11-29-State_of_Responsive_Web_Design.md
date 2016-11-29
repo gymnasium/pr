@@ -4,7 +4,7 @@ permalink: state_of_responsive_web_design
 pretitle: Aquent Gymnasium Presents
 title: The State of Responsive Web Design
 subtitle: Featuring Ethan Marcotte and Karen McGrane
-date:   2016-11-28
+date:   2016-11-29
 ---
 
 **Boston, November 29, 2016** -- Aquent Gymnasium is pleased to present [The State of Responsive Web Design](http://www.bit.ly/GYM_event5a), a live, online conversation with Ethan Marcotte and Karen McGrane, on **Thursday, December 8, at 2 pm**. Our guests will share their retrospective view of the responsive approach along with their vision for the future of the web. This event is free to the public with limited registration. We encourage those interested to [register early](http://www.bit.ly/GYM_event5a).
