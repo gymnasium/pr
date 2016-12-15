@@ -11,7 +11,7 @@ date:   2016-11-29
 
 'Responsive web design' was a theoretical concept coupled with a bit of practical code in 2010 when Ethan Marcotte first coined the term in his article for A List Apart. In five years, the responsive design approach has grown into a universally-accepted standard for designing interactive experiences on the web. The process, tools, and technology integral to successful web design have continuously evolved, forcing design teams to adapt rapidly.
 
-Karen McGrane, a UX consultant, has been immersed in information architecture and content strategy for more than fifteen years.  When they joined forces in 2010, Ethan and Karen began educating web designers worldwide with an email newsletter, in-house workshops and a podcast documenting interviews with over 100 organizations large and small via their about how they implemented the responsive framework.
+When Karen and Ethan joined forces in 2010, they began educating web designers worldwide with an email newsletter, in-house workshops and a podcast documenting interviews with over 100 organizations large and small via their about how they implemented the responsive framework.
 
 #### About Ethan Marcotte
 
