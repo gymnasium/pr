@@ -1,6 +1,6 @@
 ---
 layout: release
-permalink: introducing-sketch-for-ux-and-ui
+permalink: introducing_sketch_for_ux_and_ui
 pretitle: Aquent Gymnasium Re-launches
 title: Introducing Sketch for UX and UI
 subtitle: "Gym Short" is Completely Updated
