@@ -1,13 +1,9 @@
-
-
----
 layout: release
 permalink: introducing-sketch-for-ux-and-ui
 pretitle: Aquent Gymnasium Re-launches
 title: Introducing Sketch for UX and UI
 subtitle: "Gym Short" is Completely Updated
 date:   2016-12-28
----
 
 **Boston, December 28, 2016** -- Aquent Gymnasium is pleased to roll out the new and improved [**Introducing Sketch for UX and UI**](http://bit.ly/GYM_SketchNew) Gym Short, with updates to reflect the many new features that Sketch has made since our initial course release in November 2015.
 
@@ -21,6 +17,7 @@ remains a short course designed to be completed quickly and students can always 
 Finally, like everything else on Gymnasium, this high-quality course is completely free. Learn more by visiting the [Gymnasium course page](http://bit.ly/GYM_SketchNew).
 
 **About Instructor Jeremy Osborn**
+
 Jeremy is Academic Director of Aquent Gymnasium. Jeremy is the author of several well-reviewed and popular books on web technology and design software. He was recently featured on Jeffrey Zeldman’s podcast, The Big Web Show.
 
 
