@@ -4,7 +4,7 @@ permalink: introducing_sketch_for_ux_and_ui
 pretitle: Aquent Gymnasium Re-launches
 title: Introducing Sketch for UX and UI
 subtitle: "Gym Short" is Completely Updated
-date:   2016-12-28
+date:   2016-12-22
 ---
 
 **Boston, December 28, 2016** -- Aquent Gymnasium is pleased to roll out the new and improved [**Introducing Sketch for UX and UI**](http://bit.ly/GYM_SketchNew) Gym Short, with updates to reflect the many new features that Sketch has made since our initial course release in November 2015.
