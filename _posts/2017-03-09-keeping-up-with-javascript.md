@@ -1,5 +1,3 @@
-
-
 ---
 layout: release
 permalink: keeping-up-with-javascript
