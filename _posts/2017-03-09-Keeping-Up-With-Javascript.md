@@ -7,7 +7,7 @@ subtitle: Live Event Featuring Kevin Chisholm and Keith Peters
 date:   2017-03-08
 ---
 
-**Boston, March 9, 2017** -- Aquent Gymnasium is pleased to present Keeping Up with [JavaScript is a Full-time Job](http://bit.ly/GYM_Event6PR), a live, online conversation with Gymnasium instructors Kevin Chisholm and Keith Peters on **Thursday, March 20, at 2 pm**.  Our guests will discuss the challenges of keeping up with today’s ever-changing JavaScript landscape, when learning becomes a full-time job, and how to manage learning while having a full-time job.
+**Boston, March 8, 2017** -- Aquent Gymnasium is pleased to present Keeping Up with [JavaScript is a Full-time Job](http://bit.ly/GYM_Event6PR), a live, online conversation with Gymnasium instructors Kevin Chisholm and Keith Peters on **Thursday, March 20, at 2 pm**.  Our guests will discuss the challenges of keeping up with today’s ever-changing JavaScript landscape, when learning becomes a full-time job, and how to manage learning while having a full-time job.
 
 This event is free to the public with limited registration. We encourage participants to [register early.](http://bit.ly/GYM_Event6PR)
 
