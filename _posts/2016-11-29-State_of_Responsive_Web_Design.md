@@ -7,7 +7,7 @@ subtitle: Featuring Ethan Marcotte and Karen McGrane
 date:   2016-11-29
 ---
 
-**Boston, November 29, 2016** -- Aquent Gymnasium is pleased to present [The State of Responsive Web Design](http://www.bit.ly/GYM_event5a), a live, online conversation with Ethan Marcotte and Karen McGrane, on **Thursday, December 8, at 2 pm**. Our guests will share their retrospective view of the responsive approach along with their vision for the future of the web. This event is free to the public with limited registration. We encourage those interested to [register early](http://www.bit.ly/GYM_event5a).
+**Boston, November 29, 2016** -- Aquent Gymnasium is pleased to present [The State of Responsive Web Design](https://gymnasium.github.io/cms/events/state_of_responsive_design/), a live, online conversation with Ethan Marcotte and Karen McGrane, on **Thursday, December 8, at 2 pm**. Our guests will share their retrospective view of the responsive approach along with their vision for the future of the web. This event is free to the public with limited registration. We encourage those interested to [register early](https://gymnasium.github.io/cms/events/state_of_responsive_design/).
 
 'Responsive web design' was a theoretical concept coupled with a bit of practical code in 2010 when Ethan Marcotte first coined the term in his article for A List Apart. In five years, the responsive design approach has grown into a universally-accepted standard for designing interactive experiences on the web. The process, tools, and technology integral to successful web design have continuously evolved, forcing design teams to adapt rapidly.
 

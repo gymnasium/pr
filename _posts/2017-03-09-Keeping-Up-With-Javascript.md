@@ -7,9 +7,9 @@ subtitle: Live Event Featuring Kevin Chisholm and Keith Peters
 date:   2017-03-08
 ---
 
-**Boston, March 8, 2017** -- Aquent Gymnasium is pleased to present Keeping Up with [JavaScript is a Full-time Job](http://bit.ly/GYM_Event6PR), a live, online conversation with Gymnasium instructors Kevin Chisholm and Keith Peters on **Thursday, March 20, at 2 pm**.  Our guests will discuss the challenges of keeping up with today’s ever-changing JavaScript landscape, when learning becomes a full-time job, and how to manage learning while having a full-time job.
+**Boston, March 8, 2017** -- Aquent Gymnasium is pleased to present Keeping Up with [JavaScript is a Full-time Job](https://gymnasium.github.io/cms/events/keeping_up_with_javascript/), a live, online conversation with Gymnasium instructors Kevin Chisholm and Keith Peters on **Thursday, March 20, at 2 pm**.  Our guests will discuss the challenges of keeping up with today’s ever-changing JavaScript landscape, when learning becomes a full-time job, and how to manage learning while having a full-time job.
 
-This event is free to the public with limited registration. We encourage participants to [register early.](http://bit.ly/GYM_Event6PR)
+This event is free to the public with limited registration. We encourage participants to [register early.](https://gymnasium.github.io/cms/events/keeping_up_with_javascript/)
 
 JavaScript first appeared over twenty years ago, and since then it has become one of the most important languages on and off the web. Today’s JavaScript ecosystem, driven by sophisticated technologies, frameworks, and libraries, brings a new level of interaction and innovation to the web that exceeds the humble beginnings of the early days of JavaScript. Both Kevin and Keith provide an in-the-trenches perspective to navigating the JavaScript landscape.
 
@@ -24,5 +24,3 @@ Keith Peters is a developer based in Boston. He is the author of *Playing with C
 **About Instructor Jeremy Osborn**
 
 Jeremy is Academic Director of Aquent Gymnasium. Jeremy is the author of several well-reviewed and popular books on web technology and design software. He was recently featured on Jeffrey Zeldman’s podcast, *The Big Web Show*.
-
-
